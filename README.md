@@ -28,7 +28,10 @@ samples, guidance on mobile development, and a full API reference.
 4. Add OpenWeatherMap API KEY on lib\view\weather_page.dart
 
     String apiKey = "<ADD API KEY HERE>";
+
+   ![image](https://github.com/adama455/Application-Meteo-flutter/assets/83130675/17e855da-ad69-4281-a171-bf7f78347cf3)
+
     
-5. Run project.
+6. Run project.
 
     flutter run
